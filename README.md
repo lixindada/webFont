@@ -21,7 +21,8 @@ p{
   font-family:"bebasneue-webfont";
 }
 ```
-如果设置字体没有起作用 <a href="https://www.fontsquirrel.com/tools/webfont-generator" target="_blank">点我</a> 下载全部字体包 里面有demo
-
+如果设置字体没有起作用 [点我](https://www.fontsquirrel.com/tools/webfont-generator "点我") 下载全部字体包 里面有demo
+点这个上传一个刚刚在站长之家下载的字体
 ![点这个上传一个刚刚在站长之家下载的字体](http://47.98.201.115/file/6c28593a78b8eb6ecd3cc4bfa072b27.png)
+点这个下载全部字体
 ![点这个下载全部字体](http://47.98.201.115/file/98d629e6c6823c128527475b42bc399.png)
