@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "bebasneue-webfont";
+  src: url('bebasneue-webfont.woff2') format('woff2'),
+       url('bebasneue-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+p{
+  font-family:"bebasneue-webfont";
+}
